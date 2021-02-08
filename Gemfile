@@ -12,7 +12,7 @@ gem 'devise'
 gem 'pg', '~> 0.18.4'
 
 # carrierwave and fog
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'fog', '~> 1.37.0'
 gem 'mini_magick'
 # Use Puma as the app server
