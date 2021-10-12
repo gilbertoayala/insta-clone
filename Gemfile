@@ -16,7 +16,7 @@ gem 'carrierwave', '~> 2.0'
 gem 'fog', '~> 1.37.0'
 gem 'mini_magick'
 # Use Puma as the app server
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 5.5'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
